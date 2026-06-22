@@ -1,0 +1,17 @@
+venv/
+venv/*
+env/
+env/*
+__pycache__/
+*.pyc
+*.pyo
+.env
+.env.local
+*.xls
+*.db
+*.sqlite
+*.log
+logs/
+.vscode/
+.idea/
+*.swp
